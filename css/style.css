@@ -1,0 +1,27 @@
+#header-top {
+    min-height: 80px;
+}
+
+#header-top .fa-bars {
+    color: var(--bs-white);
+    font-size: 24px;
+}
+
+
+#header-top h1 {
+    font-size: 24px
+}
+
+.my-icon {
+    font-size: 30px;
+}
+
+.my-divider hr{
+    border: 2px solid white;
+    opacity: 100%;
+}
+
+img{
+    width: 100%;
+    display: block;
+}
